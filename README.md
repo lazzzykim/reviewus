@@ -5,7 +5,7 @@
 
 ## 팀원 🤝
 
-| [이동욱](https://github.com/kbsat) | [김성현](https://github.com/lazzzykim) | [이제원](https://github.com/jeawonlee0327) | [한정민](https://github.com/jeongminy) |
+| [이동욱](https://github.com/kbsat) | [김성현](https://github.com/lazzzykim) | [한정민](https://github.com/jeawonlee0327) | [이제원](https://github.com/jeongminy) |
 |:----------:|:----------:|:----------:|:----------:|
 |![image](https://github.com/Moveuk/reviewus/assets/84966961/8666e7b4-4b6a-43a1-afaf-5492888384b3)|![image](https://github.com/Moveuk/reviewus/assets/84966961/9c5971ff-d2f3-42cd-a89d-b8c8f910271a)|![image](https://github.com/Moveuk/reviewus/assets/84966961/8bd2ab00-d030-4b1e-88b4-f023c10acbc1)|![image](https://github.com/Moveuk/reviewus/assets/84966961/c7f575c7-6564-4338-b403-b0a618567f5d)|
 
